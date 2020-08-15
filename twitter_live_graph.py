@@ -44,10 +44,10 @@ def plo():
 
 
 #Initializing the keys
-consumer_key = 'GARJ1I8gLLTfqjQLF6j44BOjk'
-consumer_secret = 'uTU7V3y9Ucy4IiQKIllyBrORyzV3ROBiPNgcCM8yTHjYccpUEL'
-access_token = '736451455-pSWi5DIuqzpzHxDB5N7kgWQ6llQ0jMUeQdQLj4mf'
-access_secret = 'xSoATCHnGOQbkReRaz9FdpOg9tfYmV9MLKfplZBgEhPg0'
+consumer_key = 'XXXXXXXXXXXX'
+consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxx'
+access_token = 'xxxxx'
+access_secret = 'xxxxxx'
 
 
 
